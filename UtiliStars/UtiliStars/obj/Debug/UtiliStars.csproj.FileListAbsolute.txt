@@ -1,0 +1,12 @@
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\bin\UtiliStars.dll.config
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\bin\UtiliStars.dll
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\bin\UtiliStars.pdb
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\obj\Debug\UtiliStars.csprojResolveAssemblyReference.cache
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\obj\Debug\UtiliStars.dll
+C:\Users\sjokeefe\Desktop\UtiliStars\UtiliStars\obj\Debug\UtiliStars.pdb
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\bin\UtiliStars.dll.config
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\bin\UtiliStars.dll
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\bin\UtiliStars.pdb
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\obj\Debug\UtiliStars.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\obj\Debug\UtiliStars.dll
+C:\Users\Sean\Documents\GitHub\utiliStarsPhoneGapGame\UtiliStars\UtiliStars\obj\Debug\UtiliStars.pdb

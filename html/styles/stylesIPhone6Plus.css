@@ -1,0 +1,89 @@
+﻿body {
+    background-color: #184966;
+    color: #fbfb93;
+    font-family: Calibri, Arial;
+    font-size: 30px;
+}
+
+#DivSplash {
+    width: 320px;
+    height: 460px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/splashI6p.png');
+}
+
+#DivQuestion {
+    height: 200px;
+    text-align: center;
+}
+
+#SpanQuestionNum {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#SpanCorrectNum {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#TableGame {
+    width: 310px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.info {
+    font-size: 24px;
+}
+
+.DivAnswer {
+    height: 180px;
+    width: 150px;
+    border: 2px solid silver;
+    text-align: center;
+    padding: 10px;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size: 25px;
+}
+
+#DivSadImage {
+    width: 300px;
+    height: 256px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/sadstarI6p.png');
+    display: none;
+}
+
+#DivStarImage {
+    width: 300px;
+    height: 256px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/starI6p.png');
+    display: none;
+}
+
+#DivSuperImage {
+    width: 300px;
+    height: 256px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/superstarI6p.png');
+    display: none;
+}
+
+input[type=button] {
+    border-radius: 25px;
+    width: 58%;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #263c49;
+    border: 2px solid silver;
+    color: lightyellow;
+    padding:10px;
+}

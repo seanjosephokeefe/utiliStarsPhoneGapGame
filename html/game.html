@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Play Game</title>
+    <link href="styles/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="DivGame">
+        <table id="TableGame">
+            <tr>
+                <td class="info">Question: <span id="SpanQuestionNum">1</span></td>
+                <td class="info">Correct: <span id="SpanCorrectNum">0</span></td>
+            </tr>
+            <tr><td colspan="2" valign="middle"><div id="DivQuestion"></div></td></tr>
+            <tr>
+                <td><div id="DivChoice1" class="DivAnswer buttonBlue"></div></td>
+                <td><div id="DivChoice2" class="DivAnswer buttonRed"></div></td>
+            </tr>
+            <tr>
+                <td><div id="DivChoice3" class="DivAnswer buttonYellow"></div></td>
+                <td><div id="DivChoice4" class="DivAnswer buttonGreen"></div></td>
+            </tr>
+            <tr>
+                <td colspan="2" valign="middle">
+                    <div id="DivNotification"></div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="DivResults">
+        <div id="DivSadImage"></div>
+        <div id="DivStarImage"></div>
+        <div id="DivSuperImage"></div>
+        <div id="DivFeedback"></div>
+    </div>
+    <script src="scripts/jquery-2.1.4.min.js"></script>
+    <script src="questions/questions.js"></script>
+    <script src="scripts/scripts.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            SetUpQuestions();
+            SetMatrix();
+        });
+    </script>
+</body>
+</html>

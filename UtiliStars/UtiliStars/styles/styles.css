@@ -1,0 +1,54 @@
+﻿/*import whichever version of app you're using*/
+
+/*iPhone 6plus*/
+@import url(stylesIPhone6Plus.css) (min-width:320px);
+
+/*iPad Air*/
+@import url(stylesIPad.css) (min-width:621px);
+
+.buttonBlue {
+    background-color: #93f0fb;
+}
+
+    .buttonBlue:active {
+        background-color: #63a2a9;
+    }
+
+.buttonRed {
+    background-color: #f94d7a;
+}
+
+    .buttonRed:active {
+        background-color: #b43858;
+    }
+
+.buttonGreen {
+    background-color: #51f94d;
+}
+
+    .buttonGreen:active {
+        background-color: #3cb939;
+    }
+
+.buttonYellow {
+    background-color: #f6f85d;
+}
+
+    .buttonYellow:active {
+        background-color: #b9ba46;
+    }
+
+#DivResults {
+    display: none;
+}
+
+#DivNotification {
+    text-align:center;
+    color:black;
+    font-weight:bold;
+    background-color:white;
+}
+
+#DivFeedback {
+    text-align: center;
+}
